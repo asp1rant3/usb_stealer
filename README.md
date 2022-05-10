@@ -29,10 +29,10 @@ pip install pyTelegramBotAPI
 pip install pyinstaller
 
 2) Создать диск на MEGA, записать логин и пароль в файл load.py
-<img src="https://github.com/asp1rant3/usb_stealer/blob/main/assets/1.png" width="25px">
+<img src="https://github.com/asp1rant3/usb_stealer/blob/main/assets/1.png">
 
 3) Создать Telegram-бота (BotFather), создать с ним диалог (отправить любое сообщение), записать его token и ваш id в файл notifier.py
-<img src="https://github.com/asp1rant3/usb_stealer/blob/main/assets/2.png" width="25px">
+<img src="https://github.com/asp1rant3/usb_stealer/blob/main/assets/2.png">
 4) Скомпилировать программу с помощью pyinstaller. (Компилировать исключительно python 3.10 + версии, ибо я проводил тесты по декомпиляции, и все известные декомпиляторы отказались работать с этими версиями.)
 
 Всё!
